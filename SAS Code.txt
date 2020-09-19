@@ -1,0 +1,53 @@
+proc sql;
+
+	connect to teradata(
+	tdpid="tdp5dbc.teradata.westpac.com.au"
+	USER="xxxx" 
+	PASSWORD="xxxx");
+	
+	create table work.emps_today as
+	select * from connection to teradata
+	(select line_description from test_env.tdro_V2 group by 1);
+
+quit;
+
+
+
+
+
+
+proc sql;
+
+	connect to teradata(
+	tdpid="tdp5dbc.teradata.westpac.com.au"
+	USER="xxxx" 
+	PASSWORD="xxxx");
+	
+	execute(delete from test_env.keeping_fee_base where reporting_mth = 1200731) by teradata;
+	execute (commit work) by teradata;
+	
+quit;
+
+
+
+### or using lib method
+
+%let UIDSGB = xxxxxx;
+%let PWDSGB = xxxxxx;
+
+LIBNAME TDP1 TERADATA SERVER="tdp5dbc.teradata.westpac.com.au" USER="&UIDSGB." PASSWORD="&PWDSGB." SCHEMA='test_env'; RUN;
+
+
+data work.emps_today;
+set tdp1.tdro_V2;
+run;
+
+
+
+
+To view the tables
+proc datasets lib=TDP1;
+quit;
+
+
+
