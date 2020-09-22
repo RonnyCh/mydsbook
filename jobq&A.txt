@@ -1,0 +1,189 @@
+
+Success (related to JD)
+
+I have been working in Westpac Group for 13 years where I spent the first 6 years doing business unit finance roles before I moved to finance system roles. 
+
+When I was doing BUF roles I supported various executives with variance analysis, expense management, forecasting and yearly planning. I worked closely with them to understand what’s happening in the business and how I could help them with insights to help them growing the business and to improve the bottom line. Over those years, I have managed to streamline a lot of management reporting and provided insightful analysis for my stakeholders.
+
+For example, when I was supporting St George Retail, I created weekly dashboard for our retail executive and his team. It tracked the spot balance and balance growth for each retail product and the comparison by different channels, regions, and markets. It also showed them other metrics such as application approval and settlements and the conversion rate as well as what is in the pipeline. The dashboard showed the best and the worst performers and helped the executive team with their strategies and decision making. For example, when they ran specific campaign for deposits, they can see if they were growing their balances from that campaign. Sometimes the strategy did not work as planned such as when they decided to cut off broker commission, we had massive run-off in mortgage book before they decided to switch strategy.
+
+And I moved to financial system role at the end of 2011, I was actually approached by Head of MIS about a vacancy in his team and he needed someone with strong analytical skills, business knowledge and good with reporting. 
+
+So, I took that role and for the last 7 years, I have helped transforming the system from the legacy St George BI Tool to the current state in TM1. One of the biggest achievements I did was to clear up the head office numbers (bulk of them to do with IFRS Acctg) by analysing the nature of the transactions and identifying key drivers that could be used to do allocations. I worked closely with different finance HOFs at that time to propose the business rules and to get their agreements. Then I was leading business analyst to build the rules in SAS as interim approach while we were looking at long term solution by building production tables in data warehouse.
+
+During the transition, I also helped with change management to help finance transitioning from their reporting from old system to Teradata. I created excel modelling to review BS, PNL and margin management for both business and consumer finance. 
+
+Initially, we started building a prototype as a proof of concept. I worked closely with a BA to build those business rules in SAS.  
+
+Once we built the prototype, I also helped with change management. I helped building finance modelling to replace their old reports so they can review BS, PNL and margin where they can just click a button to populate the numbers for their 
+specific business unit. 
+
+I also  helped them rebasing their targets and helped them understand the changes with before and after view.
+
+I also continued working with project team to deliver those functionalities we had in prototype to production tables in GDW. Once in production, the data then gets populated automatically to TM1. 
+
+But now we have TM1 as our front end and my key role is about finance control and making sure our numbers are reliable and delivered on time during month end. It is a critical role because the numbers are used widely by finance in Business and Consumer Division, our two biggest divisions in Westpac. On daily basis, I need to review the financials in TM1 to make sure there are no anomalies. I also have regular meetings during month end with consols, products to understand what’s happening during month end, is there any ad hoc journals or pricing changes that will impact the numbers. I need to be aware of them so I can understand the movements and the impact to business rules. As we have short time frame to close month end, I need to be able to explain the anomalies before business units start asking questions. 
+I also work closely with our IT team to make sure system running fine and issues resolved on timely manner. And of course I manage the communications with end users with any issues to keep them in the loop. 
+
+In the last 2-3 years I attended some conferences from Teradata or SAS since we use their products. And I got to know about machine learning, AI and start hearing about open source systems like Python and R. 
+
+I don’t like doing boring manual stuff myself and in my previous roles I did a lot of modelling and used excel VBA or Access. Of course I also use Teradata and we built a lot of business rules in the data warehouse. But we always end up pumping data from Teradata to excel to do further modelling, dashboard charts etc before copying them to powerpoint for presentations. 
+
+So I got so fascinated by these new buzz words because now we have the capability to do things in much bigger scale and I can provide better insights for businesses. So I started doing online courses such as data science using R and I also started learning python. I also learn Power BI for visualisation as well as tableu. My aspiration one day I can lead a big team with experts in this field where it plays an important role in helping the business to execute different strategies to grow the business.  But of course I need to understand how all these things work if I want to progress my career in this area.
+
+That’s probably the reason I want to leave because I feel my system now is pretty mature and I have managed my stakeholders to resolve a lot of issues over the years. And I need a new challenge to pursue my passion dealing with big data and use latest technology to help my stakeholders with insights.
+
+So that is pretty much a quick summary of my experiences in banking where I can relate some of my experiences to this job you advertised. 
+
+
+
+Further Questions to think of
+
+https://www.inc.com/jeff-haden/27-most-common-job-interview-questions-and-answers.html
+
+Why should we hire you?
+I have been working in retail and consumer banking for over 10 years and know the products quite well as well as experiences in presenting results and visualisations in concise manner to key decision makers. There’s no points giving fancy and busy visualisations and they don’t understand them. And at the same time, I’m capable to talk to technical people to translate all the jargons to something easier understand for businesses. I bring the best of both areas where I don’t think that many people can have that. Plus, I am easy going and hardly complaints and always deliver. 
+
+
+Where do you see yourself in 5 years? 
+I hope I can end up in an environment where I will be dealing with big data and resolving various complex issues and dealing with different projects. I keep doing good jobs and hopefully can manage a big team and be an important part of a company in helping them executing their key strategies.
+
+
+What is your biggest achievement recently?
+Recently, we just completed a separation of a new division and I was involved as SME from finance system. My biggest achievement was my contribution to highlight all the risks and collaboration with group finance, business unit finance and IT to resolve issues and to make changes to meet the deadline. I also challenged BUF input to our capital process during month end at the last day and managed to convince different stakeholder to change their approach otherwise we would have ended up with $500m BS issue. 
+
+How do you handle different stakeholders who have different interests such as your experience in BT doing yearly planning?
+
+During yearly planning I had to sit down with different HOFs to work out how much to allocate for the following year budget. Before I had the meeting, I already had some facts how much they spent in the current year and their FTE. 
+
+First thing I did was to be a good listener and see where they are coming from with all their requests. I presented the facts on current year spending and how much increased we had with our overall BSR numbers. So, if we increased our overall BSR numbers by 5% and they wanted 10% increased, I would advise them the request is a bit over the stretch and they need to have valid reasons for that. I collected their feedback and work closely with GM to finalise the numbers. 
+
+
+
+Explain the data science a bit better. 
+1.	How to split training and test
+2.	High level of all algorithm such as decision tree, random forest etc
+3.	Example of what you did with Netflix and Titanic
+4.	Evaluation to see how good your results are
+
+
+
+
+Strength
+
+After going through so many changes in Westpac, I can say my real strength is my ability to analyse complex issues and solve the problems and presenting the results in concise manner for my stakeholders to understand. I am also able to communicate easily with both finance people and technical people.
+
+I am a fast learner and always keen to learn new things to help me with my role. As you can see in my resume, I started learning machine learning in data science as well as tensor flow in google cloud platform. I also started to look at Tableu doing the two weeks trial which I don’t see any issue in learning. A lot easier for me to learn because I already have a background in SQL, modelling, machine learning. I’ve done some of those visualisations in python and R via coding. 
+
+What are you looking for in your next role?
+
+What I am looking for in my next role is an opportunity to work with big data and utilisation of the latest technology and use my strong analytical skills to help company solve complex problems. I believe this role dealing with AML will give me that exposure to deal with massive data and complex issues which I enjoy doing. And I also want to help reducing financial crimes and make people’s live better. 
+
+
+Collaboration
+Recently, we had SBD Project where a new division is created. It’s quite a big project with a lot of changes required from system perspective as well as YTD journals and rebases at TM1. 
+
+I collaborated with Group Finance on regular basis to prepare for testing, setting up the environment and getting technical support required from IT.
+
+I also setup regular meeting with my finance stakeholders to keep them up to date in terms of progress how we are tracking in changing configurations and business readiness. 
+
+Once the numbers are finalised, I engaged IT to setup access for key finance stakeholders to review the numbers. I also centralised the issues raised by my business units before relaying them to bigger projet. I also advised business units to do rebases for prior months and helped them as required if they need my help figuring out the rebase numbers.
+
+But collaboration working well as we work together to achieve the same outcome. 
+
+Dealing with difficult people
+The first thing to do is try to stay calm and stay in control. Try to understand what makes people difficult and put yourself in their shoes. Sometimes it’s good to bring people to the same table to make clear on issues, facts and resolutions going forward. Example, give Tara’s example of capital request where you setup a meeting and she’s happy once she understands the issues. 
+
+And over the years, I think once you built that trust with stakeholders when they know you are a reliable person, it will be easier to get through difficult situations such as dealing with priorities or pain points. You can even get their support to highlight the issues to higher management. 
+
+Of course, you will have people with bad manners now and then, normally they don’t survive that long in the company anyway. 
+
+
+What do you know about agile?
+
+Agile is a project management process which is suitable where users are not 100% sure about their requirements for developing a software. So instead of building a fully function software with a complete set of features, you come up with a user story and you build a list of current requirements as part of backlogs. You build those features using different sprints and keep adding functionalities as users come up with more requests until you end up with full features of a software. That’s why it is called agile, because it is flexible.  
+
+
+
+What do you know about AML
+
+AML is regulation to prevent criminals from disguising illegal funds as legitimate income. Some of these money they come from human trafficking, child sex exploitation, drug trafficking and fraud.  They also use it to transfer money to fund terrorism activities and they can kill a lot of people. So these regulations designed to prevent bad things happen to people in Australia and overseas. And banks are required to monitor customers' transactions and report on suspicious financial activity to Austrac. 
+
+
+Questions to ask about the job :
+
+1.	What’s your typical day like and who are your stakeholders
+2.	Can you tell me the structure of your team
+3.	What sort of projects do you guys have
+4.	I know in job description you mentioned about report on emerging trends and impacts on resourcing. What do you mean impacts on resourcing
+5.	Any potential restructuring in the team?
+
+Questions about strength
+1.	Strong analytical skills
+2.	Good in explaining complex issues 
+3.	Good product knowledge as well as technical skills
+
+Weaknesses
+
+1.	My weakness I don’t like last minute requests because I always want to deliver good quality report and need sufficient time to prepare. Over the years, I figure out the best way to tackle it is by figuring out all the possible questions/scenarios that would come from stakeholders and work out the possible answers during your free time. So next time you get last minute requests, you can handle it properly. 
+For example, when I was working at BT there were a lot of requests about waterfall. And it was not something that I had been doing during my previous roles. So during my free time I worked out a macro to automate that process so next time I can handle all the different possible requests with waterfall. 
+
+
+2.	Sometimes I have high expectations for my colleagues. I expect people to know how certain process works and to do things as quickly as myself. It happened during one of the projects when our users failed to meet deadline and certain issues on time. 
+
+And it was in my one on one discussion with my manager. He was confused why I could be so patience training our new snr business analyst but got frustrated with our finance tester in BAT. 
+
+But I stepped back a little bit after project and realised sometimes I need to understand the whole situation from a different angle. Need to consider we had restructuring, people jobs on the line and people under pressure with so many other requests coming from businesses. Maybe I needed to lower my expectation and worked a bit more closely with them. 
+
+
+How are you going to manage 3 months solution but 75% accurate compared to 95% accuracy but takes 6 months long.
+
+I would prefer to have quality as in my current role now my main responsibility is to provide accurate numbers for my stakeholders. But, I would probably need to evaluate the urgency of the request and weight the pros and cons for further discussion with my stakeholder. Because wrong information would give wrong decisions and especially in AML it is a critical role. And we don’t want to create further issues in the short term. 
+Ideally what would be better to have short term solution and still reliable whilst working on longer term solution to make better accuracy. 
+
+
+Tell me your experiences dealing with difficult stakeholders 
+
+When we built prototype I helped creating a lot of business rules and had to present and conviced stakeholders to agree on those rules. We had resistance from some head of. 
+
+So I went to a training where I remember about the relationship between power and interest. So I applied that method…. Find on internet using project stakeholder management. 
+
+
+I pretty much apply the same thing on my regular month end issues. I look at based on financial impacts and put priority based on that. The higher the impact, that’s the one I’ll be looking at first. It’s the same when you go to emergency room right, the triage nurse will analyse the patient and urgent patient will get treatment immediately otherwise you have to wait. You have certain amount of resources and time to do it so sometimes you have to manage them accordingly to get the best outcome. 
+
+You can make up the story based on emergency story…. Great!!
+
+
+
+
+
+Talk about data science
+
+1.	What is machine learning? Similar to forecasting
+2.	Train and test dataset 
+3.	Different algorithsm, try to understand random forest, decision tree, linear regression
+4.	Modelling you’ve done Titanic Dataset, NetFlix (read your github again)
+
+
+
+Machine Learning = if I use it in my own word , it is actually your forecasting process but you do it in more advanced way using algorithms and you typically run against quite big training dataset compared to where people probably use excel to review trend. In machine learning, you have the concept of features in your training dataset where you have existing outcome. Then you train your model based on that training dataset to predict against new data. Of course you do evaluation to see how accurate your model and I guess you can keep tweaking your model as you get more dataset and find new trends.
+
+You do evaluation to your model using confusion matrix or RMSE depending whether youre doing classification model or regression model. 
+
+I used R when I did my course and I created modelling for how many people will survive titanic and also predicting Netflix rating for new users.
+
+What is random sampling? 
+
+Linear regression = a statistical calculation to explain a relationship between two or more variables and if you plot them to a graph you get kind of linear relationship. For example if you have kids in your blue book you can see linear relationship between age and weight or height.
+
+
+
+
+
+
+
+
+
+
+
+
