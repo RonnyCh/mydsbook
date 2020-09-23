@@ -1,4 +1,4 @@
-Success (related to JD)
+"1. Tell me about yourself"
 
 I have been working in Westpac Group for 13 years where I spent the first 6 years doing business unit finance roles before I moved to finance system roles. 
 
@@ -8,25 +8,15 @@ For example, when I was supporting St George Retail, I created weekly dashboard 
 
 And I moved to financial system role at the end of 2011, I was actually approached by Head of MIS about a vacancy in his team and he needed someone with strong analytical skills, business knowledge and good with reporting. 
 
-So, I took that role and for the last 7 years, I have helped transforming the system from the legacy St George BI Tool to the current state in TM1. One of the biggest achievements I did was to clear up the head office numbers (bulk of them to do with IFRS Acctg) by analysing the nature of the transactions and identifying key drivers that could be used to do allocations. I worked closely with different finance HOFs at that time to propose the business rules and to get their agreements. Then I was leading business analyst to build the rules in SAS as interim approach while we were looking at long term solution by building production tables in data warehouse.
+So, I took that role and for the last 7 years, I have helped transforming the system from the legacy St George BI Tool to the current state in TM1. One of the biggest achievements I did was to clear up the head office numbers (bulk of them to do with IFRS Acctg) by analysing the nature of the transactions and identifying key drivers that could be used to do allocations. I worked closely with different finance HOFs at that time to propose the business rules and to get their agreements. 
 
-During the transition, I also helped with change management to help finance transitioning from their reporting from old system to Teradata. I created excel modelling to review BS, PNL and margin management for both business and consumer finance. 
+Then I was leading business analyst to build the rules in SAS as interim approach while we were looking at long term solution by building production tables in data warehouse.During the transition, I also helped with change management to help finance transitioning from their reporting from old system to Teradata. I created excel modelling to review BS, PNL and margin management for both business and consumer finance. I also continued working with project team to deliver productions tables and involved executing UAT before we finalising the process to flow to TM1 directly.
 
-Initially, we started building a prototype as a proof of concept. I worked closely with a BA to build those business rules in SAS.  
-
-Once we built the prototype, I also helped with change management. I helped building finance modelling to replace their old reports so they can review BS, PNL and margin where they can just click a button to populate the numbers for their 
-specific business unit. 
-
-I also  helped them rebasing their targets and helped them understand the changes with before and after view.
-
-I also continued working with project team to deliver those functionalities we had in prototype to production tables in GDW. Once in production, the data then gets populated automatically to TM1. 
-
-But now we have TM1 as our front end and my key role is about finance control and making sure our numbers are reliable and delivered on time during month end. It is a critical role because the numbers are used widely by finance in Business and Consumer Division, our two biggest divisions in Westpac. On daily basis, I need to review the financials in TM1 to make sure there are no anomalies. I also have regular meetings during month end with consols, products to understand what’s happening during month end, is there any ad hoc journals or pricing changes that will impact the numbers. I need to be aware of them so I can understand the movements and the impact to business rules. As we have short time frame to close month end, I need to be able to explain the anomalies before business units start asking questions. 
+Now we have TM1 as our front end, my key role is about finance control and making sure our numbers are reliable and delivered on time during month end. It is a critical role because the numbers are used widely by finance in Business and Consumer Division, our two biggest divisions in Westpac. On daily basis, I need to review the financials in TM1 to make sure there are no anomalies. I also have regular meetings during month end with consols, products to understand what’s happening during month end, is there any ad hoc journals or pricing changes that will impact the numbers. I need to be aware of them so I can understand the movements and the impact to business rules. As we have short time frame to close month end, I need to be able to explain the anomalies before business units start asking questions. 
 I also work closely with our IT team to make sure system running fine and issues resolved on timely manner. And of course I manage the communications with end users with any issues to keep them in the loop. 
 
-In the last 2-3 years I attended some conferences from Teradata or SAS since we use their products. And I got to know about machine learning, AI and start hearing about open source systems like Python and R. 
 
-I don’t like doing boring manual stuff myself and in my previous roles I did a lot of modelling and used excel VBA or Access. Of course I also use Teradata and we built a lot of business rules in the data warehouse. But we always end up pumping data from Teradata to excel to do further modelling, dashboard charts etc before copying them to powerpoint for presentations. 
+In the last 2-3 years I have also attended some conferences from Teradata or SAS since we use their products. And I got to know about machine learning, AI and start hearing about open source systems like Python and R. I don’t like doing boring manual stuff myself and in my previous roles I did a lot of modelling and used excel VBA or Access. Of course I also use Teradata and we built a lot of business rules in the data warehouse. But we always end up pumping data from Teradata to excel to do further modelling, dashboard charts etc before copying them to powerpoint for presentations. 
 
 So I got so fascinated by these new buzz words because now we have the capability to do things in much bigger scale and I can provide better insights for businesses. So I started doing online courses such as data science using R and I also started learning python. I also learn Power BI for visualisation as well as tableu. My aspiration one day I can lead a big team with experts in this field where it plays an important role in helping the business to execute different strategies to grow the business.  But of course I need to understand how all these things work if I want to progress my career in this area.
 
