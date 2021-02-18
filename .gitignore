@@ -1,0 +1,10 @@
+*.csv
+*.txt
+*.pbix
+*.html
+*.xlsx
+untitled*
+*.log
+test*
+R/
+Laptop/

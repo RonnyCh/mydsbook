@@ -1,4 +1,4 @@
-Trade Date,Order Type,Code,Units,Average Price ($),Brokerage (inc GST.),Dividend Per Share,Dividend Total,Net Proceeds ($),Status,Grouped,Month
+Trade Date,Order Type,Code,Units,Average Price,Brokerage,Dividend Per Share,Dividend Total,Net Proceeds,Status,Grouped,Month
 18/03/2020,B,A200,175,85.84,19.95,,,"-15,041.95",Confirmed,1/04/2020,2020-04
 27/03/2020,B,A200,170,88.1,19.95,,,"-14,996.95",Confirmed,1/04/2020,2020-04
 30/03/2020,B,A200,178,83.62,19.95,,,"-14,904.31",Confirmed,1/04/2020,2020-04
